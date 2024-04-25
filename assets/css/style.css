@@ -347,7 +347,7 @@ a {
 }
 
 .navbar-link {
-  color: var(--independence);
+  color: white;
   font-family: var(--ff-nunito);
   font-size: var(--fs-6);
   padding-block: 5px;
